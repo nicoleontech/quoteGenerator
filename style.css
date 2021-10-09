@@ -1,0 +1,28 @@
+header {
+    padding: 2em;
+    background-color: pink;
+    margin-top: 2em;
+    text-align: center;
+}
+
+.quote {
+font-size: 2em;
+}
+
+.btn-large {
+    margin: 0.5em;
+}
+
+.card {
+    text-align: center;
+    width: 45em;
+}
+
+.new-quote-button {
+    background-color: rgb(238,128,238);
+    border-color: purple;
+}
+#button:hover{
+    background-color:rgb(228, 60, 228) ;
+    cursor: pointer;
+}
